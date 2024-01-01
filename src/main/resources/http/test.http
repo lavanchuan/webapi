@@ -1,0 +1,11 @@
+###
+GET http://localhost:8080/api/product-detail/47
+
+###
+GET http://localhost:8080/api/product-detail/all/with-last-propertysort
+
+###
+POST http://localhost:8080/api/product/update-quatity?productDetailId=47&quantity=40
+
+###
+POST http://localhost:8080/api/buy-product?productDetailId=47&quantity=12

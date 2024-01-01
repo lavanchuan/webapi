@@ -1,0 +1,10 @@
+Câu hỏi: mỗi câu 2 điểm
+1.	Viết API mua 1 số lượng sản phẩm nhất định phải check được nếu
+sản phẩm không đủ trả ra Response với tiêu đề không đủ và nếu sản phẩm
+hết hàng cũng phải trả ra tiêu đề hết hàng khi sản phẩm đủ số lượng thì trả ra
+tiêu đề mua thành công và trừ đúng số lượng trong bảng ProductDetails với tất cả
+các đời thuộc tính.
+2.	Viết API cập nhật số lượng cho sản phẩm bất kì sao cho số lượng các đời
+thuộc tính không bị sai lệch
+3.	Viết API trả ra tất cả dữ liệu của bảng ProductDetails với yêu cầu là
+thuộc tính đời cuối cùng của sản phẩm.
